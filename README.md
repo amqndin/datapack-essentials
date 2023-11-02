@@ -1,16 +1,39 @@
-# amandiwn-dpc-pack README
+## Datapack creation pack
 
-## Working with Markdown
+Is supposed to make your life easier, especially when you are beginner.
+By the press of a single button you get all the needed extensions installed
+for Minecraft datapack developement.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## README.md
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+The best Datapack extension pack
 
-## For more information
+it contains such extensions like:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+https://marketplace.visualstudio.com/items?itemName=MinecraftCommands.syntax-mcfunction syntax highlighting for .mcfunction
+
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme icons for .mcfunction and .json
+
+https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server .mcfunction syntax autocompletion + error debug
+
+https://marketplace.visualstudio.com/items?itemName=ChenCMD.mc-datapack-utility quick datapack template creation + quick creation scoreboard operations
+
+https://marketplace.visualstudio.com/items?itemName=actuallyboomber.tellraw-preview preview for tellraw, to see if you have / havent written a space and to debug
+
+https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt cool NBT viewer that shows 3d model when openeing structure file
+
+https://marketplace.visualstudio.com/items?itemName=hans000.mc-json-viewer JSON viewer for all the .json stuff in minecraft like advancements, etc.
+
+https://marketplace.visualstudio.com/items?itemName=ratquaza.recipe-creator recipe creator and recipe viewer
+
+https://marketplace.visualstudio.com/items?itemName=oran9eutan.mcmodel-viewer this is more for texture packs, 3d model viewer.
+
+## GitHub
+
+https://github.com/amawdiin/dpc-ext-pack
+
+## Discord tag
+
+amandin#0265
 
 **Enjoy!**
