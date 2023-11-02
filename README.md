@@ -30,7 +30,7 @@ https://marketplace.visualstudio.com/items?itemName=oran9eutan.mcmodel-viewer th
 
 ## GitHub
 
-https://github.com/amawdiin/dpc-ext-pack
+https://github.com/amawdiin/dpc-pack
 
 ## Discord tag
 
