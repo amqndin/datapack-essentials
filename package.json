@@ -1,0 +1,24 @@
+{
+  "name": "amandin-dpc-pack",
+  "displayName": "MC Datapack / Resourcepack Extension collection",
+  "description": "Allows you to get the best experience when creating datapacks, or resourcepacks\nall the extensions work perfect together, you get illimited possibilities!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "arcensoth.language-mcfunction",
+    "PKief.material-icon-theme",
+    "SPGoding.datapack-language-server",
+    "ChenCMD.mc-datapack-utility",
+    "actuallyboomber.tellraw-preview",
+    "Misodee.vscode-nbt",
+    "hans000.mc-json-viewer",
+    "oran9eutan.mcmodel-viewer",
+    "stone926.minecraft-resourcepack-helper",
+    "ratquaza.recipe-creator"
+  ]
+}
