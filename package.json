@@ -4,11 +4,11 @@
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/amawdiin/dpc-ext-pack/tree/main"
+        "url": "https://github.com/amawdiin/dpc-pack/"
     },
     "displayName": "MC Datapack Extension collection",
     "description": "Allows you to get the best experience when creating datapacks, \nall the extensions work perfect together, you get unlimited possibilities!",
-    "version": "2.1.4",
+    "version": "2.1.5",
     "engines": {
         "vscode": "^1.76.0"
     },
