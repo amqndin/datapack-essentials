@@ -12,7 +12,7 @@ it contains such extensions like:
 
 https://marketplace.visualstudio.com/items?itemName=MinecraftCommands.syntax-mcfunction syntax highlighting for .mcfunction
 
-https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme icons for .mcfunction and .json
+https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons amazing minecraft styled icons for datapack development
 
 https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server .mcfunction syntax autocompletion + error debug
 

@@ -17,7 +17,7 @@
     ],
     "extensionPack": [
         "MinecraftCommands.syntax-mcfunction",
-        "PKief.material-icon-theme",
+        "SuperAnt.mc-dp-icons",
         "SPGoding.datapack-language-server",
         "ChenCMD.mc-datapack-utility",
         "actuallyboomber.tellraw-preview",
