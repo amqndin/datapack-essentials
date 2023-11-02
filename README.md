@@ -34,6 +34,6 @@ https://github.com/amawdiin/dpc-ext-pack
 
 ## Discord tag
 
-amandin#0265
+amandin
 
 **Enjoy!**
