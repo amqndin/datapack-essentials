@@ -40,6 +40,12 @@ Shows a preview of how tellraw would look like. Useful, especially with long tel
 
 ![sho](images/tellraw.png)
 
+-   ## [worldgen tools](https://marketplace.visualstudio.com/items?itemName=Misodee.worldgen-tools)
+
+Visualize noise and density function of worldgen.
+
+![sho](https://github.com/misode/worldgen-tools/raw/HEAD/images/noise_visualizer.png)
+
 -   ## [nbt viewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt)
 
 Well, the name says it. Open `.nbt` and `.dat` files & inspect structures in 3D viewer.
