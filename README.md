@@ -1,39 +1,67 @@
-## Datapack creation pack
+# What is datapack essentials?
 
-Is supposed to make your life easier, especially when you are beginner.
-By the press of a single button you get all the needed extensions installed
-for Minecraft datapack developement.
+It is something that allows you to unlock the ultimate minecraft coding experience with a single click!
 
-## README.md
+# Extensions list
 
-The best Datapack extension pack
+-   ## [mcfunction syntax highlight](https://marketplace.visualstudio.com/items?itemName=MinecraftCommands.syntax-mcfunction)
 
-it contains such extensions like:
+Highlights minecraft commands in .mcfunction file.
 
-https://marketplace.visualstudio.com/items?itemName=MinecraftCommands.syntax-mcfunction syntax highlighting for .mcfunction
+![showcase](images/mcfunction.png)
 
-https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons amazing minecraft styled icons for datapack development
+-   ## [datapack helper plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
 
-https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server .mcfunction syntax autocompletion + error debug
+This is a mcfunction LSP, provides autocompletion and error highlight.
 
-https://marketplace.visualstudio.com/items?itemName=ChenCMD.mc-datapack-utility quick datapack template creation + quick creation scoreboard operations
+![showcas](images/spyglass.png)
 
-https://marketplace.visualstudio.com/items?itemName=actuallyboomber.tellraw-preview preview for tellraw, to see if you have / havent written a space and to debug
+-   ## [datapack icons](https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons)
 
-https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt cool NBT viewer that shows 3d model when openeing structure file
+Minecraft styled icon theme for datapacks & resourcepacks.
 
-https://marketplace.visualstudio.com/items?itemName=hans000.mc-json-viewer JSON viewer for all the .json stuff in minecraft like advancements, etc.
+![showca](images/mcdpicons.png)
 
-https://marketplace.visualstudio.com/items?itemName=ratquaza.recipe-creator recipe creator and recipe viewer
+-   ## [datapack utility](https://marketplace.visualstudio.com/items?itemName=ChenCMD.mc-datapack-utility)
 
-https://marketplace.visualstudio.com/items?itemName=oran9eutan.mcmodel-viewer this is more for texture packs, 3d model viewer.
+Create an empty datapack in 10 seconds. Highly customizable! Add functions, advancements or any other datapack file. You can create your very own template as well!
 
-## GitHub
+![showc](images/1103.gif)
+
+-   ## [color highlighter](https://marketplace.visualstudio.com/items?itemName=nobuwu.mc-color)
+
+Will highlight minecraft color codes, a very useful extension.
+
+![show](images/colorcode.png)
+
+-   ## [tellraw preview](https://marketplace.visualstudio.com/items?itemName=actuallyboomber.tellraw-preview)
+
+Shows a preview of how tellraw would look like. Useful, especially with long tellraws. Allows you to spot missing or extra whitespaces.
+
+![sho](images/tellraw.png)
+
+-   ## [nbt viewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt)
+
+Well, the name says it. Open `.nbt` and `.dat` files & inspect structures in 3D viewer.
+
+![sh](images/nbt.png)
+
+-   ## [recipe creator](https://marketplace.visualstudio.com/items?itemName=ratquaza.recipe-creator)
+
+Setup a basic NBT craft workaround with knowledge book in seconds.
+
+![s](images/recipe.png)
+
+#
+
+### GitHub
 
 https://github.com/amawdiin/dpc-pack
 
-## Discord tag
+### Me
 
-amandin
+-   Discord: amandin
+-   Telegram: amwndin
+-   Github: https://github.com/amawdiin/
 
-**Enjoy!**
+**Enjoy the pack!**

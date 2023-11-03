@@ -1,14 +1,14 @@
 {
     "name": "dpc-pack",
     "publisher": "amandin",
-    "icon": "icon.png",
+    "icon": "./images/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/amawdiin/dpc-pack/"
     },
-    "displayName": "MC Datapack Extension collection",
-    "description": "Allows you to get the best experience when creating datapacks, \nall the extensions work perfect together, you get unlimited possibilities!",
-    "version": "2.1.5",
+    "displayName": "Datapack essentials",
+    "description": "Everything you'd ever need, in one place.",
+    "version": "2.1.6",
     "engines": {
         "vscode": "^1.76.0"
     },
@@ -17,13 +17,20 @@
     ],
     "extensionPack": [
         "MinecraftCommands.syntax-mcfunction",
-        "SuperAnt.mc-dp-icons",
         "SPGoding.datapack-language-server",
+        "SuperAnt.mc-dp-icons",
         "ChenCMD.mc-datapack-utility",
+        "nobuwu.mc-color",
         "actuallyboomber.tellraw-preview",
         "Misodee.vscode-nbt",
-        "hans000.mc-json-viewer",
-        "oran9eutan.mcmodel-viewer",
         "ratquaza.recipe-creator"
+    ],
+    "tags": [
+        "minecraft",
+        "mcfunction",
+        "datapack",
+        "mc",
+        "datapack essentials",
+        "datapack helper"
     ]
 }
