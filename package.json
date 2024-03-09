@@ -4,11 +4,11 @@
     "icon": "./images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/amawdiin/dpc-pack/"
+        "url": "https://github.com/amqndin/datapack-essentials/"
     },
     "displayName": "Datapack essentials",
     "description": "Everything you'd ever need, in one place.",
-    "version": "2.1.7",
+    "version": "2.1.8",
     "engines": {
         "vscode": "^1.76.0"
     },

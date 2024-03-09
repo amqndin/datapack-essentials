@@ -67,7 +67,7 @@ https://github.com/amqndin/datapack-essentials
 ### Me
 
 -   Discord: amandin
--   Telegram: amwndin
--   Github: https://github.com/amawdiin/
+-   Telegram: amqndin
+-   Github: https://github.com/amqndin/
 
 **Enjoy the pack!**
