@@ -62,7 +62,7 @@ Setup a basic NBT craft workaround with knowledge book in seconds.
 
 ### GitHub
 
-https://github.com/amawdiin/dpc-pack
+https://github.com/amqndin/datapack-essentials
 
 ### Me
 
