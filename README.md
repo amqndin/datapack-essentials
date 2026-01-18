@@ -34,12 +34,6 @@ Create an empty datapack in 10 seconds. Highly customizable! Add functions, adva
 
 ![showcase](images/datapack-utility.gif)
 
-## [color highlighter](https://marketplace.visualstudio.com/items?itemName=nobuwu.mc-color)
-
-Will highlight minecraft color codes, a very useful extension.
-
-![showcase](images/colorcodes.png)
-
 ## [tellraw preview](https://marketplace.visualstudio.com/items?itemName=actuallyboomber.tellraw-preview)
 
 Shows a preview of how tellraw would look like. Useful, especially with long tellraws. Allows you to spot missing or extra whitespaces.
