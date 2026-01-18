@@ -10,9 +10,9 @@ Highlights minecraft commands in .mcfunction file.
 
 ![showcase](images/mcfunction.png)
 
-## [datapack helper plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
+## [spyglass](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
 
-This is a mcfunction LSP, provides autocompletion and error highlight.
+This is the mcfunction LSP, provides autocompletion, code diagnostics, symbol references, refactoring features.
 
 ![showcase](images/spyglass.png)
 
