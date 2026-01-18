@@ -34,12 +34,6 @@ Create an empty datapack in 10 seconds. Highly customizable! Add functions, adva
 
 ![showcase](images/datapack-utility.gif)
 
-## [tellraw preview](https://marketplace.visualstudio.com/items?itemName=actuallyboomber.tellraw-preview)
-
-Shows a preview of how tellraw would look like. Useful, especially with long tellraws. Allows you to spot missing or extra whitespaces.
-
-![showcase](images/tellraw-preview.png)
-
 ## [worldgen tools](https://marketplace.visualstudio.com/items?itemName=Misodee.worldgen-tools)
 
 Visualize noise and density function of worldgen.
@@ -57,3 +51,9 @@ Well, the name says it. Open `.nbt` and `.dat` files & inspect structures in 3D 
 Setup a basic NBT craft workaround with knowledge book in seconds.
 
 ![showcase](images/recipe-creator.png)
+
+## [tellraw preview](https://marketplace.visualstudio.com/items?itemName=actuallyboomber.tellraw-preview)
+
+Shows a preview of how tellraw would look like. Useful, especially with long tellraws. Allows you to spot missing or extra whitespaces.
+
+![showcase](images/tellraw-preview.png)
