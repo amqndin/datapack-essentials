@@ -24,13 +24,13 @@
         "actuallyboomber.tellraw-preview",
         "Misodee.worldgen-tools",
         "Misodee.vscode-nbt",
-        "ratquaza.recipe-creator"
+        "ratquaza.recipe-creator",
+        "TheSalt.datapack-optimization"
     ],
     "tags": [
-        "minecraft",
         "mcfunction",
         "datapack",
-        "mc",
+        "minecraft",
         "datapack essentials",
         "datapack helper"
     ]

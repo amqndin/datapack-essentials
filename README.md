@@ -4,70 +4,62 @@ It is something that allows you to unlock the ultimate minecraft coding experien
 
 # Extensions list
 
--   ## [mcfunction syntax highlight](https://marketplace.visualstudio.com/items?itemName=MinecraftCommands.syntax-mcfunction)
+## [mcfunction syntax highlight](https://marketplace.visualstudio.com/items?itemName=MinecraftCommands.syntax-mcfunction)
 
 Highlights minecraft commands in .mcfunction file.
 
 ![showcase](images/mcfunction.png)
 
--   ## [datapack helper plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
+## [datapack helper plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
 
 This is a mcfunction LSP, provides autocompletion and error highlight.
 
-![showcas](images/spyglass.png)
+![showcase](images/spyglass.png)
 
--   ## [datapack icons](https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons)
+## [datapack icons](https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons)
 
 Minecraft styled icon theme for datapacks & resourcepacks.
 
-![showca](images/mcdpicons.png)
+![showcase](images/datapack-icons.png)
 
--   ## [datapack utility](https://marketplace.visualstudio.com/items?itemName=ChenCMD.mc-datapack-utility)
+## [datapack optimization helper](https://marketplace.visualstudio.com/items?itemName=TheSalt.datapack-optimization)
+
+Helps you optimize your datapack by pointing at weak points in your code
+
+![showcase](images/datapack-optimization.png)
+
+## [datapack utility](https://marketplace.visualstudio.com/items?itemName=ChenCMD.mc-datapack-utility)
 
 Create an empty datapack in 10 seconds. Highly customizable! Add functions, advancements or any other datapack file. You can create your very own template as well!
 
-![showc](images/1103.gif)
+![showcase](images/datapack-utility.gif)
 
--   ## [color highlighter](https://marketplace.visualstudio.com/items?itemName=nobuwu.mc-color)
+## [color highlighter](https://marketplace.visualstudio.com/items?itemName=nobuwu.mc-color)
 
 Will highlight minecraft color codes, a very useful extension.
 
-![show](images/colorcode.png)
+![showcase](images/colorcodes.png)
 
--   ## [tellraw preview](https://marketplace.visualstudio.com/items?itemName=actuallyboomber.tellraw-preview)
+## [tellraw preview](https://marketplace.visualstudio.com/items?itemName=actuallyboomber.tellraw-preview)
 
 Shows a preview of how tellraw would look like. Useful, especially with long tellraws. Allows you to spot missing or extra whitespaces.
 
-![sho](images/tellraw.png)
+![showcase](images/tellraw-preview.png)
 
--   ## [worldgen tools](https://marketplace.visualstudio.com/items?itemName=Misodee.worldgen-tools)
+## [worldgen tools](https://marketplace.visualstudio.com/items?itemName=Misodee.worldgen-tools)
 
 Visualize noise and density function of worldgen.
 
-![sho](https://github.com/misode/worldgen-tools/raw/HEAD/images/noise_visualizer.png)
+![showcase](https://github.com/misode/worldgen-tools/raw/HEAD/images/noise_visualizer.png)
 
--   ## [nbt viewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt)
+## [nbt viewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt)
 
 Well, the name says it. Open `.nbt` and `.dat` files & inspect structures in 3D viewer.
 
-![sh](images/nbt.png)
+![showcase](images/nbt-viewer.png)
 
--   ## [recipe creator](https://marketplace.visualstudio.com/items?itemName=ratquaza.recipe-creator)
+## [recipe creator](https://marketplace.visualstudio.com/items?itemName=ratquaza.recipe-creator)
 
 Setup a basic NBT craft workaround with knowledge book in seconds.
 
-![s](images/recipe.png)
-
-#
-
-### GitHub
-
-https://github.com/amqndin/datapack-essentials
-
-### Me
-
--   Discord: amandin
--   Telegram: amqndin
--   Github: https://github.com/amqndin/
-
-**Enjoy the pack!**
+![showcase](images/recipe-creator.png)
