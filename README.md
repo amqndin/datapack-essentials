@@ -8,7 +8,7 @@ It is something that allows you to unlock the ultimate minecraft coding experien
 
 Highlights minecraft commands in .mcfunction file.
 
-![showcase](images/mcfunction.png)
+![showcase](images/mcfunction-syntax.png)
 
 ## [spyglass](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
 
