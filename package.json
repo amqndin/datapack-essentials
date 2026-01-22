@@ -8,7 +8,7 @@
     },
     "displayName": "Datapack essentials",
     "description": "Every tool for datapack development in one place.",
-    "version": "2.3.1",
+    "version": "2.3.2",
     "engines": {
         "vscode": "^1.76.0"
     },
