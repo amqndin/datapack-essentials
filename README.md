@@ -28,12 +28,6 @@ Helps you optimize your datapack by pointing at weak points in your code
 
 ![showcase](images/datapack-optimization.png)
 
-## [datapack utility](https://marketplace.visualstudio.com/items?itemName=ChenCMD.mc-datapack-utility)
-
-Create an empty datapack in 10 seconds. Highly customizable! Add functions, advancements or any other datapack file. You can create your very own template as well!
-
-![showcase](images/datapack-utility.gif)
-
 ## [worldgen tools](https://marketplace.visualstudio.com/items?itemName=Misodee.worldgen-tools)
 
 Visualize noise and density function of worldgen.
@@ -45,15 +39,3 @@ Visualize noise and density function of worldgen.
 Well, the name says it. Open `.nbt` and `.dat` files & inspect structures in 3D viewer.
 
 ![showcase](images/nbt-viewer.png)
-
-## [recipe creator](https://marketplace.visualstudio.com/items?itemName=ratquaza.recipe-creator)
-
-Setup a basic NBT craft workaround with knowledge book in seconds.
-
-![showcase](images/recipe-creator.png)
-
-## [tellraw preview](https://marketplace.visualstudio.com/items?itemName=actuallyboomber.tellraw-preview)
-
-Shows a preview of how tellraw would look like. Useful, especially with long tellraws. Allows you to spot missing or extra whitespaces.
-
-![showcase](images/tellraw-preview.png)

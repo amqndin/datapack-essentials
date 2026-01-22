@@ -19,12 +19,9 @@
         "MinecraftCommands.syntax-mcfunction",
         "SPGoding.datapack-language-server",
         "SuperAnt.mc-dp-icons",
-        "ChenCMD.mc-datapack-utility",
         "nobuwu.mc-color",
-        "actuallyboomber.tellraw-preview",
         "Misodee.worldgen-tools",
         "Misodee.vscode-nbt",
-        "ratquaza.recipe-creator",
         "TheSalt.datapack-optimization"
     ],
     "tags": [
