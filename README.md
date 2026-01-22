@@ -22,6 +22,12 @@ Minecraft styled icon theme for datapacks & resourcepacks.
 
 ![showcase](images/datapack-icons.png)
 
+## [minode](https://marketplace.visualstudio.com/items?itemName=voxel.minode)
+
+Integration of the Misode editor into VS Code, generate all your json files within the editor.
+
+![showcase](images/minode.png)
+
 ## [datapack optimization helper](https://marketplace.visualstudio.com/items?itemName=TheSalt.datapack-optimization)
 
 Helps you optimize your datapack by pointing at weak points in your code
